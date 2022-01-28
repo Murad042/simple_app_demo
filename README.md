@@ -23,4 +23,11 @@ dvc init
 dvc add data_given/wine_quality.csv
 
 git add .
-git commit -m
+git commit -m 
+
+onliner updates for readme
+git add . && git commit -m "Update README file"
+
+git remote add origin https://github.com/Murad042/simple_app_demo.git
+git branch -M main
+git push origin main

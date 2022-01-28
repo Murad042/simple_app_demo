@@ -21,3 +21,6 @@ git init
 dvc init
 
 dvc add data_given/wine_quality.csv
+
+git add .
+git commit -m
